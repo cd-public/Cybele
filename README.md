@@ -18,3 +18,10 @@ This project studies the following design:
 https://github.com/pulp-platform/pulpissimo
 
 Using Hyperminer to find interference cases and Astarte to define design state when interference occurs, Cybele will compose conditional interference hyperproperties from design traces while fully open source.
+
+# Workflow
+
+* Generate Pulpissimo traces [Kellen]
+* Detect Pulpissimo interference times [Paul]
+* Mine states when interference occurs [Next]
+* Post-process output into conditional interference hyperproperties [a la Isadora]
